@@ -52,8 +52,9 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
-- [stats-preview-card-component](https://hilla10.github.io/stats-preview-card-component-main/)
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+- [live Site](https://hilla10.github.io/stats-preview-card-component-main/)
+
+- You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
 ## Create a custom `README.md`
 
